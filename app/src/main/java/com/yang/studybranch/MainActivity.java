@@ -7,7 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
     String[] strings = new String[]{
             "first edit",
-            "dev add str",
+            "dev add str_feature1",
     };
 
 
