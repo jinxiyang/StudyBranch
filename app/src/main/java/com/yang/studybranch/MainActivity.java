@@ -5,6 +5,11 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
+    String[] strings = new String[]{
+            "first edit",
+    };
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
