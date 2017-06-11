@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
             "dev add str_master",
             "dev add str_feature1",
             "after stash",
+            "stash",
     };
 
 
